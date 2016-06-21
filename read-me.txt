@@ -22,5 +22,7 @@ Displays competitors on page seo tactics by quickly revealing meta keywords, met
 * Launch
 = 1.1 =
 * Test Update Feature
+= 1.2 =
+* Integration of Google API and custom search engine.
 
 == Upgrade Notice ==
