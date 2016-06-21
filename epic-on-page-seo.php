@@ -42,5 +42,5 @@ $myUpdateChecker = new $className(
 	'master'
 );
 
-$myUpdateChecker->setAccessToken('687386e96c85cbf33b73ba6a5838b5692f94f3e1');
+$myUpdateChecker->setAccessToken('897d23665d043041e2ca9cfc460058f9d6ac0ed2');
 
