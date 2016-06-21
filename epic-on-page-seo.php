@@ -2,7 +2,7 @@
 /**
 * Plugin Name: Epic On Page SEO
 * Description: Spy on exactly what your competitors are using for their on page SEO tactics!
-* Version: 1.2
+* Version: 1.3
 * Author: Epic Arrow
 * Author URI: http://www.epic-arrow.com
 * Plugin URI: http://www.epic-arrow.com/epic-on-page-seo-plugin/
