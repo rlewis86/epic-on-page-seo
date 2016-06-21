@@ -24,5 +24,9 @@ Displays competitors on page seo tactics by quickly revealing meta keywords, met
 * Test Update Feature
 = 1.2 =
 * Integration of Google API and custom search engine.
+= 1.3 =
+* Testing Update Feature
+= 1.4 =
+* Testing Update Feature
 
 == Upgrade Notice ==
