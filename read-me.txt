@@ -1,0 +1,26 @@
+== Epic One Page SEO Plugin ==
+Contributors: Robert Lewis 
+Tags: seo, on page, search engine optimiztion, Epic Arrow
+Tested up to: 4.4
+Stable tag: 4.4 
+
+Shows competitors on page seo tactics.
+
+== Description ==
+
+Displays competitors on page seo tactics by quickly revealing meta keywords, meta descriptions, title tags, header tags, image alt tags, and page word counts
+
+== Installation == 
+
+1. Extract to wp-content/plugins/ folder
+2. Activate Plugin
+3. Click on menu item in WordPress dashboard
+4. Type keyword and hit submit. 
+
+== Change-log ==
+= 1.0 =
+* Launch
+= 1.1 =
+* Test Update Feature
+
+== Upgrade Notice ==
