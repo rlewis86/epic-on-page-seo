@@ -28,5 +28,7 @@ Displays competitors on page seo tactics by quickly revealing meta keywords, met
 * Testing Update Feature
 = 1.4 =
 * Testing Update Feature
+= 1.5 =
+* Added link for API Key & Search Engine Id Instructions
 
 == Upgrade Notice ==
