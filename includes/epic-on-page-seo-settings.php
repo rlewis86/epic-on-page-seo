@@ -27,7 +27,7 @@ global $eopseo_options;
 	?>
 <div class="wrapper">
 	<h1>Epic On Page SEO Settings</h1>
-
+<p>For instructions visit: <a href="http://www.epic-arrow.com/plugin-installation/">http://www.epic-arrow.com/plugin-installation/</a></p>
 <form id="frmOPSEASettings" method="post" action="options.php">
 <?php settings_fields('eopseo_settings_group'); ?>
 <?php do_settings_sections('eopseo_settings_group'); ?>
