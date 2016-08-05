@@ -32,5 +32,8 @@ Displays competitors on page seo tactics by quickly revealing meta keywords, met
 * Added link for API Key & Search Engine Id Instructions
 = 1.6 = 
 * Fixed bug with Google Custom Search API
+= 1.7 =
+* Remove YouTube Video
+
 
 == Upgrade Notice ==

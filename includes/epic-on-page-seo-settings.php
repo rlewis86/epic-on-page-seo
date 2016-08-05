@@ -46,9 +46,6 @@ Search Engine ID
 </p>
 </form>
 </div>
-<div>
-<iframe width="1080" height="608" src="https://www.youtube.com/embed/JH7KQmNOPLU" frameborder="0" allowfullscreen></iframe>
-</div>
 <?php 
 
 }
