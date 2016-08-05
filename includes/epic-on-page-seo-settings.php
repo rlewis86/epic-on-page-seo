@@ -27,12 +27,12 @@ global $eopseo_options;
 	?>
 <div class="wrapper">
 	<h1>Epic On Page SEO Settings</h1>
-<p>For instructions visit: <a href="http://www.epic-arrow.com/plugin-installation/">http://www.epic-arrow.com/plugin-installation/</a></p>
+<p>For instructions visit: <a target="_blank" href="http://www.epic-arrow.com/plugin-installation/">http://www.epic-arrow.com/plugin-installation/</a></p>
 <form id="frmOPSEASettings" method="post" action="options.php">
 <?php settings_fields('eopseo_settings_group'); ?>
 <?php do_settings_sections('eopseo_settings_group'); ?>
 <p>
-<label for="api_key">API Key<label>
+<label for="api_key">API Key</label>
 <br>
  <input type="text" name="eopseo_settings[api_key]"  style="width:250px" value="<?php echo esc_attr($eopseo_options['api_key']); ?>">
 </p>
@@ -45,6 +45,9 @@ Search Engine ID
 <input type="submit" id="btnSubmit" value="Save" class="button-primary">
 </p>
 </form>
+</div>
+<div>
+<iframe width="1080" height="608" src="https://www.youtube.com/embed/JH7KQmNOPLU" frameborder="0" allowfullscreen></iframe>
 </div>
 <?php 
 

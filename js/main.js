@@ -104,16 +104,10 @@ jQuery(document)
 
                         try{
                         buildTables(data);
+                        
                         } catch(err){
-                            $.ajax({
-                                type: 'post',
-                                timeout: 60000,
-                                url: $('#frmMail').attr('action'),
-                                data: {
-                                    error: err
-                                }
-                            })
-
+                        	$('#lblError').text('An Error Has Occured. Please Try Again Later or Contact Support');
+                            $.unblockUI();
                         }
                     })
                     .fail(function(data) {
@@ -145,6 +139,11 @@ jQuery(document)
                 var i = 0;
                 var keyword = $('#txtkeyword').val();
                 var keywordArray = keyword.split(' ');
+                 
+                //debugger;
+                if (data.substring(0,11) === '<pre></pre>'){
+                	data = data.replace('<pre></pre>', '');
+                }
 
                 data = $.parseJSON(data);
                 // Remove everything in table nut 1st row

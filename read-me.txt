@@ -30,5 +30,7 @@ Displays competitors on page seo tactics by quickly revealing meta keywords, met
 * Testing Update Feature
 = 1.5 =
 * Added link for API Key & Search Engine Id Instructions
+= 1.6 = 
+* Fixed bug with Google Custom Search API
 
 == Upgrade Notice ==
