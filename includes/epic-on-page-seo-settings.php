@@ -34,12 +34,12 @@ global $eopseo_options;
 <p>
 <label for="api_key">API Key</label>
 <br>
- <input type="text" name="eopseo_settings[api_key]"  style="width:250px" value="<?php echo esc_attr($eopseo_options['api_key']); ?>">
+ <input type="text" name="eopseo_settings[api_key]"  style="width:325px" value="<?php echo esc_attr($eopseo_options['api_key']); ?>">
 </p>
 <p>
 Search Engine ID
 <br>
-<input type="text" name="eopseo_settings[search_engine_id]" id="eopseo_settings[SearchEngineID]" style="width:250px" value="<?php echo esc_attr($eopseo_options['search_engine_id']); ?>">
+<input type="text" name="eopseo_settings[search_engine_id]" id="eopseo_settings[SearchEngineID]" style="width:325px" value="<?php echo esc_attr($eopseo_options['search_engine_id']); ?>">
 </p>
 <p>
 <input type="submit" id="btnSubmit" value="Save" class="button-primary">

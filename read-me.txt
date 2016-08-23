@@ -33,9 +33,10 @@ Displays competitors on page seo tactics by quickly revealing meta keywords, met
 = 1.6 = 
 * Fixed bug with Google Custom Search API
 = 1.7 =
-* Remove YouTube Video
+* Removed YouTube Video
 = 1.8 =
-* Edited Main Plugin File Header
-
+* Misc. Updates
+= 1.9 = 
+* Added more descriptive Errors
 
 == Upgrade Notice ==

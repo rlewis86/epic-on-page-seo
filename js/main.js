@@ -48,7 +48,7 @@ jQuery(document)
                             .done(function(data) {
                                     // If success
                                     if(data === ""){
-                                        $('#lblError').text('An Error Has Occured. Please Try Again Later or Contact Support');
+                                        $('#lblError').text('Custom Search Engine Error.  Please verify your Api Key and Search Engine Id are correct.');
                                         $.unblockUI();
                                         return;
                                     }
@@ -72,7 +72,7 @@ jQuery(document)
                                 })
                             .fail(function(data) {
                                     // If failed
-                                    $('#lblError').text('An error has occured.  Please try again.')
+                                    $('#lblError').text('Custom Search Engine Error.  Please verify your "Api Key" and "Search Engine Id" are correct.')
                                     $.unblockUI();
                                 });
 
